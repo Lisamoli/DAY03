@@ -1,0 +1,26 @@
+Chaque day devra être rendu à travers un format spécifique de la manière suivante : 
+
+Un repository Github, qui portera le nom du day en cours ( ex pour mon compte GitHub : IamNiters/Day00)
+
+Le repository contiendra uniquement les exercices et les fichiers énoncés dans les consignes. Aucun autre fichier ne sera toléré, peu importe l'extension COUCOU les .DS_Store ).
+
+L'arborescence d'un Day sera de la manière suivante :
+
+DAY00/  --EX00
+        --EX01
+        --EX02
+        --...
+
+Vous devrez effectuer des git add./commit/push pour chaque exercice.
+
+**PENSEZ A BIEN DONNER LES DROITS D EXECUTIONS POUR TOUS LES SCRIPTS !!!!**
+
+Les exercices sont rangés du plus simple au plus complexe, si un exercice complexe est résolu, alors qu'un exercice plus simple ne l'est pas il ne sera pas pris en compte dans la correction finale.
+Il sera laissé au gré du correcteur de jeter un coup d'oeil ou non. 
+
+Encore une fois vous ne devez laisser dans votre répertoire aucun fichier que ceux explicitement specifés par les énoncés des exercices.
+
+Vous avez une question ? Demandez à votre voisin de droite, sinon essayez celui de gauche, sinon le man ou Google. 
+
+En cas de blocage, pensez à communiquer avec les autres, via Discord, Slack, ou bougez simplement votre fessier, pour aller regarder ce que font les autres.
+Soyez sociable nom d'une pipe ! Faire des corrections sans avoir fini un Day peut parfois s'avérer une être une stratégie payante...

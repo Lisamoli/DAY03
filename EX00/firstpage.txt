@@ -1,0 +1,60 @@
+Brief : 
+
+El País (litt. « Le Pays » en espagnol) est un journal espagnol fondé en 1976, dont la version en ligne constitue le site d'information en langue espagnole le plus consulté au monde, avec près de 19 000 000 de lecteurs uniques (2017)4. Avec un tirage d'environ 110 000 exemplaires (2019)5, sa version papier compte environ un million de lecteurs par jour (2020)6.
+
+Ce quotidien est écrit en espagnol, mais il propose en ligne des versions en catalan, portugais brésilien et anglais. Certains suppléments, comme Quadern Catalunya, sont rédigés dans d'autres langues d'Espagne, pour intégrer les nuances régionales.
+
+Le siège social et la rédaction centrale de El País se trouvent à Madrid. Le journal édite des éditions territoriales depuis les principales villes d'Espagne (Barcelone, Séville, Valence, Bilbao, Saint-Jacques-de-Compostelle), dans lesquelles il a des délégations. De plus, El País imprime et distribue une « édition globale » en Amérique latine.
+
+Ce quotidien appartient au plus important groupe de médias espagnol, Prisa. En 2011, le groupe Prisa a annoncé la plus grosse perte de son histoire, 451 000 000 euros, un chiffre six fois supérieur à celui enregistré en 2010.
+
+La société à travers laquelle ce journal mène ses enquêtes est OPINA Institut.
+
+
+
+Histoire : 
+
+El País est fondé par Jose Ortega Spottorno (en) et sa première édition date du 4 mai 1976, six mois après la mort de Franco, au début de la transition espagnole7. Il est le premier journal à vocation clairement démocrate, dans un contexte où le reste des journaux espagnols venaient de la période franquiste. Le journal est conçu par Reinhard Gade et Julio Alonso. El País est devenu le journal de l'Espagne démocratique, à un moment où la transition du franquisme à la démocratie est encore en plein essor. Son premier directeur (jusqu'en 1988) était Juan Luis Cebrián, qui venait du journal Informaciones.
+
+El País suit une ligne éditoriale de centre gauche et est considéré comme proche des socialistes8. Courrier international le décrit « comme l'un des vingt meilleurs journaux du monde9 ».
+
+En 1989, El País a initié des collaborations avec d'autres journaux européens. Il participe à un réseau de ressources en commun avec La Repubblica (Italie) et Le Monde (France). Depuis octobre 2001, un supplément anglophone d’El País est inclus dans la version espagnole du International Herald Tribune.
+
+Le 4 mai 2004, The New York Times a annoncé la sortie de son New York Times International Weekly dans El País, entre autres journaux européens.
+
+En avril 2006, le journal décide d'offrir un journal gratuit et actualisé en permanence, 24 horas10 (français : « 24 Heures »). Au format PDF et comptant une dizaine de pages, toute personne connectée à Internet peut le télécharger et l'imprimer11.
+
+Le 21 octobre 2007, le journal connaît son premier grand changement de maquette depuis sa création en abandonnant notamment le Times New Roman au profit de la police Majerit, dessinée par le typographe portugais Mário Feliciano et en affichant en une l'accent aigu sur le « i » du nom du journal. De même, la phrase située en une devient El periódico global en español (français : « Le journal global en espagnol ») puis simplement El periódico global en lieu et place de la phrase historique El diario independiente de la mañana (français : « Le quotidien indépendant du matin »).
+
+El País est de mai 2006 — à l'occasion du trentième anniversaire du journal — à 2014 dirigé par Javier Moreno Barber (es).
+
+En 2012, la diffusion est de 324 814 exemplaires12.
+
+Le 4 mai 2014, Antonio Caño (es) prend la direction du journal13,14. La chute des ventes du journal sous la direction d'Antonio Caño est importante. C'est ainsi qu'El País voit ses ventes (en kiosque et par abonnement) passer de 224 551 exemplaires journaliers en avril 2014 à 145 191 exemplaires journaliers en 2018, soit une chute de plus de 35 %2.
+
+En juin 2018, devant les mauvais résultats du journal, Antonio Caño est remplacé par Soledad Gallego-Díaz (es)2. Cette destitution suit de près la mise à l'écart de Juan Luis Cebrián, l'un des trois fondateurs, directeur de la publication de 1976 à 1988, puis conseiller délégué de la direction. Juan Luis Cebrián était proche de Mariano Rajoy et de Soraya Sáenz de Santamaría, personnalités politiques du parti conservateur PP, et le journal s'éloignait de plus en plus de son lectorat historique de gauche2.
+
+
+
+Consignes : 
+
+- Créer une page index.html
+- Interdiction de créer une feuille de style
+- Les images devront être redimensionnées
+- Créer à partir du contenu plus haut 5 titres de niveaux différents
+- La page devra avoir pour nom : El País | El periodico global
+- Cinq paragraphes ( lorem ipsum autorisé)
+- Une liste ordonnée 
+- Une liste 
+- Un footer
+- Plusieurs liens
+- Les deux images dans le fichier images
+- Un header comportant plusieurs liens vers d'autres pages (les pages ne sont pas à créer)
+- Le texte de la page devra être rédigé en espagnol, vous pouvez vous aider de la page https://www.elpais.com et de google traduction et votre savoir.
+
+
+
+Bonus : 
+
+Votre site passe le validator
+https://validator.w3.org/#validate_by_upload

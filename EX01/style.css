@@ -1,0 +1,625 @@
+.rect1 {
+    position: absolute;
+    width: 253px;
+    height: 225px;
+    left: 1166px;
+    top: 649px;
+
+    background: rgba(0, 0, 0, 0.6);
+
+}
+
+.rect2 {
+    position: absolute;
+    width: 254px;
+    height: 224px;
+    left: 1165px;
+    top: 650px;
+
+    background: url(./images/b63ba849-city-53596-163d1a05b9e.jpg) no-repeat scroll center center/160%;
+}
+
+.rect3 {
+    position: absolute;
+    width: 257px;
+    height: 224px;
+    left: 1423px;
+    top: 650px;
+
+    background: url(./images/tendinite-definition.jpg) no-repeat scroll center center/130%;
+
+
+}
+
+.rect4 {
+position: absolute;
+width: 329px;
+height: 437px;
+left: 830px;
+top: 650px;
+
+background: url(./images/the_only_one_ad.png) no-repeat scroll center center/160%;
+}
+
+.rect5 {
+position: absolute;
+width: 515px;
+height: 101px;
+left: 1165px;
+top: 879px;
+
+background: url(./images/the-kardashians-hulu.jpg) no-repeat scroll center 15%/100%;
+
+}
+
+.rect6 {
+position: absolute;
+width: 515px;
+height: 101px;
+left: 1165px;
+top: 985px;
+
+background: url(./images/sephora-logo.jpg) no-repeat scroll center  13%/100%;
+}
+
+.rect7 {
+position: absolute;
+width: 753px;
+height: 882px;
+left: 17px;
+top: 216px;
+
+background: url(./images/kim-kardashian-los-angeles-premiere-of-the-kardashians-2022-hulu-press.jpg)  no-repeat scroll center 45%/180%;
+}
+.rect11 {
+position: absolute;
+width: 753px;
+height: 229px;
+left: 17px;
+top: 869px;
+    
+background: linear-gradient(180deg, rgba(0, 0, 0, 0.02) 0%, rgba(0, 0, 0, 0.917) 50%, #000000 100%);
+}
+.rect8 {
+box-sizing: border-box;
+
+position: absolute;
+width: 595px;
+height: 115px;
+left: 96px;
+top: 926px;
+
+border: 1px solid #FFFFFF;
+}
+.rect9 {
+position: absolute;
+width: 753px;
+height: 86px;
+left: 17px;
+top: 217px;
+
+background: #000000;
+}
+.rect10 {
+box-sizing: border-box;
+
+position: absolute;
+width: 854px;
+height: 155px;
+left: 826px;
+top: 217px;
+
+background: url(./images/sephora_ad.png)  no-repeat scroll center 15%/70% ;
+border: 1px solid #E8E8E8;
+}
+div.bordure1 {
+
+
+position: absolute;
+width: 1900px;
+height: 130px;
+left: -46px;
+top: -20px;
+    
+background: #FFFFFF;
+border: 2px solid #B1B1B1;
+
+}
+div.bordure2 {
+box-sizing: border-box;
+position: absolute;
+width: 1900px;
+height: 0px;
+left: -46px;
+top: 191px;
+
+border: 2px solid #B1B1B1;
+}
+
+
+tend {
+position: absolute;
+width: 253px;
+height: 148px;
+left: 1418px;
+top: 688px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 47px;
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+milano {
+position: absolute;
+width: 140px;
+height: 82px;
+left: 1225px;
+top: 730px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 104.2%;
+ /* or 26px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+parfum {
+position: absolute;
+width: 140px;
+height: 82px;
+left: 1019px;
+top: 999px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 104.2%;
+/* or 26px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+kardashian {
+position: absolute;
+width: 140px;
+height: 82px;
+left: 1355px;
+top: 891px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 104.2%;
+/* or 26px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+kim {
+position: absolute;
+width: 565px;
+height: 104px;
+left: 135px;
+top: 932px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.3em;
+
+color: #FFFFFF;
+
+border: 1px solid #000000;
+}
+kim2 {
+position: absolute;
+width: 426px;
+height: 27px;
+left: 463px;
+top: 1054px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 300;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1em;
+
+color: #FFFFFF;
+}
+fw {
+position: absolute;
+width: 300px;
+height: 48px;
+left: 70px;
+top: 236px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.1em;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+}
+kk {
+position: absolute;
+width: 300px;
+height: 48px;
+left: 260px;
+top: 236px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.1em;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+m {
+position: absolute;
+width: 49px;
+height: 48px;
+left: 480px;
+top: 236px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.1em;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+kw {
+position: absolute;
+width: 200px;
+height: 48px;
+left: 600px;
+top: 236px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.1em;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+article1 {
+position: absolute;
+width: 854px;
+height: 60px;
+left: 826px;
+top: 379px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 104.2%;
+/* or 26px */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+}
+article2 {
+position: absolute;
+width: 850px;
+height: 49px;
+left: 830px;
+top: 450px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 300;
+font-size: 22px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+    
+}
+article3 {
+position: absolute;
+width: 850px;
+height: 170px;
+left: 830px;
+top: 487px;
+
+font-family: 'Bellefair';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+}
+men {
+position: absolute;
+width: 42px;
+height: 42px;
+left: 150px;
+top: 134px;
+
+background: url(./images/icons/menu.png) no-repeat scroll center  12%/100% ;
+}
+mode {
+position: absolute;
+width: 158px;
+height: 63px;
+left: 292px;
+top: 123px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.3em;
+
+color: #000000;
+
+}
+beaute {
+position: absolute;
+width: 158px;
+height: 63px;
+left: 503px;
+top: 123px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.3em;
+
+color: #000000;
+}
+people {
+position: absolute;
+width: 158px;
+height: 63px;
+left: 714px;
+top: 123px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.3em;
+
+color: #000000;
+}
+culture {
+position: absolute;
+width: 158px;
+height: 63px;
+left: 925px;
+top: 123px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.3em;
+
+color: #000000;
+
+}
+societe {
+position: absolute;
+width: 158px;
+height: 63px;
+left: 1136px;
+top: 123px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.3em;
+
+color: #000000;
+
+}
+f {
+position: absolute;
+width: 250px;
+height: 63px;
+left: 1347px;
+top: 123px;
+    
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.3em;
+    
+color: #F70E0E;
+}
+elle {
+position: absolute;
+width: 193px;
+height: 68px;
+left: 150px;
+top: 31px;
+
+background: url(./images/Elle.png) no-repeat scroll center  12%/100%;
+}
+
+facebook {
+position: absolute;
+width: 42px;
+height: 42px;
+left: 650px;
+top: 42px;
+
+background: url(./images/icons/facebook.png) no-repeat scroll center  12%/100% ;
+
+}
+twitter {
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    left: 720px;
+    top: 42px;
+    background: url(./images/icons/twitter.png) no-repeat scroll center  12%/100% ;
+
+}
+pinterest {
+position: absolute;
+width: 42px;
+height: 42px;
+left: 790px;
+top: 42px;
+
+background: url(./images/icons/pinterest.png)  no-repeat scroll center  12%/100%;
+}
+youtube {
+position: absolute;
+width: 42px;
+height: 42px;
+left: 860px;
+top: 42px;
+
+background: url(./images/icons/youtube.png) no-repeat scroll center  12%/100%; 
+
+}
+
+instagram { 
+position: absolute;
+width: 42px;
+height: 42px;
+left: 930px;
+top: 42px;
+
+
+    
+background: url(./images/icons/instagram.png) no-repeat scroll center  12%/100%;
+
+}
+snapchat {
+position: absolute;
+width: 42px;
+height: 42px;
+left: 1000px;
+top: 42px;
+
+background: url(./images/icons/snapchat.png) no-repeat scroll center  12%/100%;
+}
+se {
+
+position: absolute;
+width: 323px;
+height: 63px;
+left: 1350px;
+top: 31px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.3em;
+
+color: #000000;
+}
+
